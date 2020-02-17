@@ -1,2 +1,2 @@
-# binaryfilm
-Binary Film Ranking
+# Binary Film Ranking
+This is an attempt at providing a better measure for audience enjoyment of films. It closely resembles the Rotten Tomatoes (RT) measurement of a percentage of audience members who "liked" the movie, except where RT chooses that a positive result is a score of >3.5 stars, this website will merely rely on the reviewer to vote "enjoyed" or "didn't enjoy" on any particular film. This ensures that subjective perspectives on how to value the 5-star rating system is absolved, and a simpler more meaningful measurement is made.
